@@ -1,5 +1,5 @@
 import os
-os.environ['OPENAI_API_KEY']='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'
+os.environ['OPENAI_API_KEY']='your api key'
 from langchain.llms import OpenAI
 import streamlit as st
 
